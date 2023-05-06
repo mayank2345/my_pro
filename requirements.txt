@@ -1,0 +1,9 @@
+flask
+numpy
+pandas
+jinja2
+Werkzeug
+MarkupSafe
+ItsDangerous
+Click
+flask-sqlalchemy
